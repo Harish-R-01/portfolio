@@ -38,7 +38,7 @@ const TopRightButtons: React.FC<Props> = () => {
             size="icon"
             title="Source code"
             onClick={() => {
-              const url = `https://github.com/Jaganr07`;
+              const url = `https://github.com/Harish-R-01`;
               Amplitude.trackCustomEvent(amplitudeEvents.clicked_github_icon, { url });
               window.open(url, "_blank");
             }}
