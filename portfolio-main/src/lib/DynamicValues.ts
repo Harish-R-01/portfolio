@@ -155,7 +155,7 @@ class DynamicValues {
 
                 {
                     title: "Online Debate and Voting System",
-                    link: "https://github.com/Harish-R-01/Online-Debate-and-Voting-System/tree/main",
+                    link: "https://github.com/Harish-R-01/Online-Debate-and-Voting-System",
                     logo: "https://raw.githubusercontent.com/Jaganr07/Images/refs/heads/main/8393149.svg",
                     desc: "A web app that enables users to participate in debates, share opinions, and cast votes in a transparent and interactive way.",
                 },
@@ -167,7 +167,7 @@ class DynamicValues {
             arr: [
                 {
                     title: "Smart Email Writer",
-                    link: "",
+                    link: "https://github.com/Harish-R-01/Email-Writer",
                     logo: "https://raw.githubusercontent.com/Jaganr07/Email_Writer/refs/heads/master/email-writer-ext/gamil.svg",
                     desc: "Smart Email Writer is an AI-powered application that generates professional email replies in a chosen tone, helping users save time while maintaining a polished and human-like communication style.",
                 },
