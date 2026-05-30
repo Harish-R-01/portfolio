@@ -31,7 +31,7 @@ class DynamicValues {
                 {
                     title: "LeetCode",
                     link: "https://leetcode.com/u/Harish6275/",
-                    logo: "portfolio-main/Images/LeetCode_logo_black.svg"
+                    logo: `${import.meta.env.BASE_URL}Images/LeetCode_logo_black.svg`
                 },
                 {
                     title: "Languages",
@@ -124,7 +124,7 @@ class DynamicValues {
                 },
                 {
                     title: 'Canva',
-                    logo: 'portfolio-main/Images/canva.svg'
+                    logo: `${import.meta.env.BASE_URL}Images/canva-icon.webp`
                 },
                 {
                     title: 'Postman',
@@ -132,7 +132,7 @@ class DynamicValues {
                 },
                 {
                     title: 'Visily AI',
-                    logo: 'portfolio-main/Images/vi.svg'
+                    logo: `${import.meta.env.BASE_URL}Images/vi.png`
                 },
                 {
                     title: 'Swagger',
@@ -168,7 +168,7 @@ class DynamicValues {
                 {
                     title: "Smart Email Writer",
                     link: "https://github.com/Harish-R-01/Email-Writer",
-                    logo: "/Images/gmail.svg",
+                    logo: `${import.meta.env.BASE_URL}Images/gmail.svg`,
                     desc: "Smart Email Writer is an AI-powered application that generates professional email replies in a chosen tone, helping users save time while maintaining a polished and human-like communication style.",
                 },
             ]
