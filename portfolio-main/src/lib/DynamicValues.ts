@@ -46,7 +46,7 @@ class DynamicValues {
                 {
                     title: "Resume",
                     desc: "Click the link icon to view/download",
-                    link: "https://drive.google.com/file/d/1Mhab7eB55loNlRQwrh_ccQhHECg-cXZy/view?usp=drivesdk",
+                    link: "https://drive.google.com/file/d/1NO-3TURXiKJkzp98fY7uKYC_UwYBY_qF/view?usp=drivesdk",
                     logo: "https://cdn-icons-png.flaticon.com/128/909/909212.png"
                 }
             ]
